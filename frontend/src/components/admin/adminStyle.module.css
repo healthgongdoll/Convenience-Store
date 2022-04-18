@@ -1,0 +1,48 @@
+.formContainer{
+    width: 400px;
+    height: 400px;
+    max-width: 400px;
+    max-height: 400px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.2);
+    padding:10px;
+    margin:1rem;
+    /* margin-left: 300px; */
+  } 
+  
+      
+  .formContent{
+      border-radius: 10px;
+      background: #fff; 
+      text-align:left;
+      overflow: auto;
+      height:100%;
+  }
+  
+  .title{
+    text-align:center;
+    font-weight: 550;
+    font-family: 'Fira Sans', sans-serif;
+    margin-top: 30px;
+    margin-bottom: 15px;
+  }
+  
+  .background{
+    display:flex;
+    justify-content: center; 
+    align-items: center;
+    background-image: url('./admin_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+  }
+  
+  .error{
+    text-align: left;
+    margin-left: 10%;
+    Width:90%;
+  }
+
+  .button{
+    text-align: center;
+  }

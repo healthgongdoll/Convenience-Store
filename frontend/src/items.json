@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Coke 20oz",
+    "type": "Soda",
+    "brand": "Coke",
+    "price": 1.99,
+    "details": "Crisp and delicious soft drink best enjoyed cold.",
+    "img": "Soda/Coke.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Sprite 20oz",
+    "type": "Soda",
+    "brand": "Coke",
+    "price": 1.99,
+    "details": "Lemon-lime flavored soft drink with a crisp, clean taste that quenches your thirst.",
+    "img": "Soda/Sprite.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Coke Zero 20oz",
+    "type": "Soda",
+    "brand": "Coke",
+    "price": 1.99,
+    "details": "More Coca-cola flavor, without any sugar.",
+    "img": "Soda/CokeZero.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Canada Dry Ginger Ale 20oz",
+    "type": "Soda",
+    "brand": "Canada Dry",
+    "price": 1.99,
+    "details": "The crisp, real ginger taste and refreshing bubbles go down smoothly any day.",
+    "img": "Soda/CanadaDry.png"
+  },
+  {
+    "id": 5,
+    "name": "Pepsi Diet Cherry 20oz",
+    "type": "Soda",
+    "brand": "Pepsi",
+    "price": 1.99,
+    "details": "Classic Diet Pepsi with a tart cherry twist - get wild!",
+    "img": "Soda/PepsiDiet.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Nestle Water Pack 28pk",
+    "type": "Water",
+    "brand": "Nestle",
+    "price": 4.99,
+    "details": "Get consistently clean and great-tasting water that's enhanced with light blend of minerals for a crisp taste.",
+    "img": "Water/NestleWaterPack.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Poland Water Pack 28pk",
+    "type": "Water",
+    "brand": "Poland",
+    "price": 4.99,
+    "details": "This 100% natural spring water makes for a clean, crisp taste.",
+    "img": "Water/PolandWaterPack.png"
+  },
+  {
+    "id": 8,
+    "name": "Ozarka Water Pack 28pk",
+    "type": "Water",
+    "brand": "Ozarka",
+    "price": 4.99,
+    "details": "A tried and true classic product. Spring water with an unmistakably fresh Texas taste that locals (and a few of our neighbors) are lucky enough to be drinking.",
+    "img": "Water/OzarkaWaterPack.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Gatorade Blue 20oz",
+    "type": "Sports Drink",
+    "brand": "Gatorade",
+    "price": 1.79,
+    "details": "Whether you're hitting the gym or sweating through your daily grind, refuel with the great taste of Gatorade Cool Blue Sports Drink.",
+    "img": "SportsDrink/GatoradeBlue.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Gatorde Red 20oz",
+    "type": "Sports Drink",
+    "brand": "Gatorade",
+    "price": 1.79,
+    "details": "Gatorde Fruit Punch has a proven blend of carbohydrates and key electrolytes, and has a delicious and refreshing fruit flavor.",
+    "img": "SportsDrink/GatoradeRed.png"
+  },
+  {
+    "id": 11,
+    "name": "Muscle Milk Chocolate 14oz",
+    "type": "Sports Drink",
+    "brand": "Muscle Milk",
+    "price": 4.49,
+    "details": "This unqiue blendpacks an intense cholcat eflavor and adequate protein for muscle building and soreness. Each drink contains 32g of protein, 160 calories, 1g sugar and 4g fiberGluten.",
+    "img": "SportsDrink/MuscleMilk.png"
+  },
+  {
+    "id": 12,
+    "name": "Vitamin Water Pomegranate 20oz",
+    "type": "Sports Drink",
+    "brand": "Vitamin Water",
+    "price": 2.19,
+    "details": "One bottle of vitaminwater® açai blueberry pomegranate is packed with vitamins, manganese, and electrolytes.",
+    "img": "SportsDrink/VitaminWaterPom.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Vitamin Water Citrus 20oz",
+    "type": "Sports Drink",
+    "brand": "Vitamin Water",
+    "price": 2.19,
+    "details": "Enjoy the benefits of vitamins and electrolytes in a delicious, tropical citrus beverage with vitaminwater® energy.",
+    "img": "SportsDrink/VitaminWaterCitrus.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Monster 16oz",
+    "type": "Energy Drink",
+    "brand": "Monster",
+    "price": 2.69,
+    "details": "Powrful punch with a smooth easy drinking flavor.",
+    "img": "EnergyDrink/Monster.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Monster Zero 16oz",
+    "type": "Energy Drink",
+    "brand": "Monster",
+    "price": 2.69,
+    "details": "A lighter tasting, citrusy, sparkling refreshment that is fully loaded of Monster energy blend.",
+    "img": "EnergyDrink/MonsterZero.png"
+  },
+  {
+    "id": 16,
+    "name": "Red Bull Zero 8oz",
+    "type": "Energy Drink",
+    "brand": "Red Bull",
+    "price": 2.69,
+    "details": "Fuel your body mind 0 with zero sugar. Red Bull gives you wiiings!",
+    "img": "EnergyDrink/RedbullZero.jpg"
+  }
+]
